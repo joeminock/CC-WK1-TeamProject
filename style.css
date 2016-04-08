@@ -1,0 +1,55 @@
+/* Janet, Sean, Joe Project */
+
+
+/*     Housekeeping      */
+
+		body {
+			padding-top: 50px;
+		}
+		
+		.starter-template {
+			padding: 40px 15px;
+			text-align: center;
+		}
+
+/*     Jumbotron       */
+
+.jumbotron {
+		background-repeat: no-repeat;
+		background-position: absolute;
+		background-size: cover;
+		height: 100%;	
+}
+
+.home {
+	background-image: url(https://s3.amazonaws.com/codecraft-projects/6829430-tree-bark.jpg);
+}
+
+.white {
+	color: #fff;
+}
+
+.forsale-nav {
+	
+}
+
+.nodot {
+	list-style: none;
+	margin-left: -40px;
+}
+
+.img {
+	width: 100%;
+}
+
+.footer {
+	background-image: url(https://s3.amazonaws.com/codecraft-projects/6829430-tree-bark.jpg);
+}
+
+.footertop {
+	padding-top: 60px;
+}
+
+.footerbottom {
+	padding-bottom: 60px;
+}
